@@ -1,3 +1,9 @@
+y2scanner (1.1) unstable; urgency=medium
+
+  * Migrate package to python3
+
+ -- Omer Dagan <omer.dagan@harmonicinc.com>  Sun, 23 Dec 2018 18:55:47 +0200
+
 y2scanner (1.0) unstable; urgency=low
 
   * Initial Release. Nothing works, only placeholder files

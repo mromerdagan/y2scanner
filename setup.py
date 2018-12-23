@@ -12,5 +12,6 @@ setup(name='y2scanner',
     package_dir={'': "python"},
     data_files=[
     	('/usr/bin', glob.glob('tree/usr/bin/*')),
+    	('/etc/y2scanner', glob.glob('tree/etc/y2scanner/*')),
     ],
 )
